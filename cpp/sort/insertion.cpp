@@ -13,20 +13,16 @@ void swap(int *a, int *b) {
 	*a = *a - *b;
 }
 
-void bubbleSort(int a[], int size) {
+void insertionSort(int a[], int size) {
 
-	int check = -1;
-	
-	for(int j = 0; j < size; j++) {
-		for(int i = 0; i < size-j-1; i++) {
-			if(a[i] > a[i+1]) {
-				swap(&a[i], &a[i+1]);
-				check = i;
-			}
-			if(check == -1)
-				break;
+	for(int i = 1; i < size; i++) {
 
-			check = -1;
+		int j = i;
+		
+		while(j > 0) {
+			if(a[j] < a[j-1])
+				swap(&a[j], &a[j-1]);
+			j--;
 		}
 	}
 
@@ -37,7 +33,7 @@ int main() {
 
 	int a[10] = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
 
-	bubbleSort(a, 10);
+	insertionSort(a, 10);
 
 	cout << endl;
 
