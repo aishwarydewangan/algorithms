@@ -5,12 +5,13 @@ using namespace std;
 void show(int a[], int size) {
 	for(int i = 0; i < size; i++)
 		cout << a[i] << "\t";
+	cout << endl;
 }
 
 void swap(int *a, int *b) {
-	*a = *a + *b;
-	*b = *a - *b;
-	*a = *a - *b;
+	int temp = *a;
+	*a = *b;
+	*b = temp;
 }
 
 void bubbleSort(int a[], int size) {
@@ -38,8 +39,6 @@ int main() {
 	int a[10] = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
 
 	bubbleSort(a, 10);
-
-	cout << endl;
 
 	return 0;
 }

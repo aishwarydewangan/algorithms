@@ -5,6 +5,7 @@ using namespace std;
 void show(int a[], int size) {
 	for(int i = 0; i < size; i++)
 		cout << a[i] << "\t";
+	cout << endl;
 }
 
 void merge(int a[], int l, int m, int r) {
@@ -52,7 +53,6 @@ int main() {
 	mergeSort(a, 0, 9);
 
 	show(a, 10);
-	cout << endl;
 
 	return 0;
 }
