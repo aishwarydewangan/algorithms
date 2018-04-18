@@ -10,3 +10,7 @@
 	* Insertion Sort
 	* Quick Sort
 	* Merge Sort
+
+* Linked List
+	* Singly Linked List
+	* Doubly Linked List
