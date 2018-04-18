@@ -6,7 +6,7 @@ int len;
 
 struct ListNode {
 	int data;
-	ListNode *next;
+	ListNode *next, *prev;
 };
 
 void show(ListNode *head) {
@@ -31,6 +31,7 @@ void insert(ListNode **head) {
 		*head = new ListNode;
 		(*head)->data = data;
 		(*head)->next = NULL;
+		(*head)->prev = NULL;
 	} else {
 		int pos;
 		cout << "\nEnter position: ";
@@ -44,6 +45,8 @@ void insert(ListNode **head) {
 
 			if(pos == 1) {
 				node->next = *head;
+				node->prev = NULL;
+				(*head)->prev = node;
 				*head = node;
 			} else {
 
@@ -53,6 +56,7 @@ void insert(ListNode **head) {
 					p = p->next;
 
 				node->next = p->next;
+				node->prev = p;
 				p->next = node;
 			}
 		}
@@ -82,6 +86,7 @@ void remove(ListNode **head) {
 		} else {
 			if(pos == 1) {
 				(*head) = (*head)->next;
+				(*head)->prev = NULL;
 				p->next = NULL;
 				delete p;
 			} else {
@@ -90,6 +95,8 @@ void remove(ListNode **head) {
 
 				ListNode *node = p->next;
 				p->next = node->next;
+				if(node->next != NULL)
+					node->next->prev = p;
 				delete node;
 			}
 		}
