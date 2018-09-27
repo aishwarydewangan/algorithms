@@ -1,7 +1,5 @@
 # Data Structures and Algorithms
 
-## Algorithms
-
 * Searching
 	* Linear Search
 	* Binary Search
@@ -12,8 +10,6 @@
 	* Insertion Sort
 	* Quick Sort
 	* Merge Sort
-
-## Data Structures
 
 * Linked List
 	* Singly Linked List
