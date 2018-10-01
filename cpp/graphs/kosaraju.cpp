@@ -22,6 +22,7 @@ void dfs(int v) {
 }
 
 void printSCC(int v) {
+	
 	visited[v] = true;
 
 	cout << v << " ";

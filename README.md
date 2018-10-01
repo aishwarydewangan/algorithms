@@ -17,7 +17,7 @@
 	* Circular Linked List
 
 * Trees
-	* Binary Search Tree
+	* Binary Search Tree - Pre, In, Post, Level, BFS, DFS
 	* Trie
 
 * Graphs
