@@ -11,6 +11,9 @@
 	* Quick Sort
 	* Merge Sort
 
+* Backtracking
+	* N-Queens
+
 * Linked List
 	* Singly Linked List
 	* Doubly Linked List
@@ -19,6 +22,9 @@
 * Trees
 	* Binary Search Tree - Pre, In, Post, Level, BFS, DFS
 	* Trie
+
+* Disjoint Set Union
+	* Path Compression
 
 * Graphs
 	* Dijkstra - Single Source Shortest Path
