@@ -16,16 +16,6 @@ void makeSet() {
     }
 }
 
-//Naive
-/*
-int findParent(int v) {
-    if(v == parent[v])
-        return v;
-    return findParent(parent[v]);
-}
-*/
-
-//Path Compression
 int findParent(int v) {
     if(v == parent[v])
         return v;
