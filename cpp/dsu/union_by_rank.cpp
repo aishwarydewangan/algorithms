@@ -1,16 +1,19 @@
 #include <iostream>
 #include <vector>
 #include <map>
+#include <algorithm>
 
 using namespace std;
 
 int n, m;
 
 vector<int> parent(100001);
+vector<int> rank(100001);
 
 void makeSet() {
     for(int i = 0; i < parent.size(); i++) {
         parent[i] = i;
+        rank[i] = 0;
     }
 }
 
@@ -26,7 +29,11 @@ void unionSet(int a, int b) {
     b = findParent(b);
     
     if(a != b) {
+        if(rank[a] < rank[b])
+            swap(a, b);
         parent[b] = a;
+        if(rank[a] == rank[b])
+            rank[a]++;
     }
 }
 

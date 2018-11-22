@@ -7,12 +7,10 @@ using namespace std;
 int n, m;
 
 vector<int> parent(100001);
-map<int, int> mp;
 
 void makeSet() {
     for(int i = 0; i < parent.size(); i++) {
         parent[i] = i;
-        mp[i] = 0;
     }
 }
 
@@ -32,11 +30,6 @@ void unionSet(int a, int b) {
     }
 }
 
-//Counts no. of elements in the set
-void countParent(int v) {
-    mp[findParent(v)]++;
-}
-
 int main() {
     cin >> n >> m;
     parent.resize(n+1);
@@ -45,12 +38,6 @@ int main() {
         int a, b;
         cin >> a >> b;
         unionSet(a, b);
-    }
-    for(int i = 1; i <= n; i++) {
-        countParent(i);
-    }
-    for(int i = 1; i <= n; i++) {
-        cout << mp[findParent(i)]-1 << " ";
     }
     return 0;
 }
