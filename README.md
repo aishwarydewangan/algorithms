@@ -23,6 +23,9 @@
 	* Binary Search Tree - Pre, In, Post, Level, BFS, DFS
 	* Trie
 
+* Dynamic Programming
+	* Rod Cutting
+
 * Disjoint Set Union
 	* Path Compression
 
