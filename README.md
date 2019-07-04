@@ -26,6 +26,7 @@
 * Dynamic Programming
 	* Rod Cutting
 	* Matrix Multiplication
+	* Nth Catalan Number
 
 * Disjoint Set Union
 	* Path Compression
