@@ -25,6 +25,7 @@
 
 * Dynamic Programming
 	* Rod Cutting
+	* Matrix Multiplication
 
 * Disjoint Set Union
 	* Path Compression
