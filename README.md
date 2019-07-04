@@ -27,6 +27,7 @@
 	* Rod Cutting
 	* Matrix Multiplication
 	* Nth Catalan Number
+	* Binomial Coefficient
 
 * Disjoint Set Union
 	* Path Compression
