@@ -28,6 +28,7 @@
 	* Matrix Multiplication
 	* Nth Catalan Number
 	* Binomial Coefficient
+	* 0/1 Knapsack
 
 * Disjoint Set Union
 	* Path Compression
