@@ -29,6 +29,7 @@
 	* Nth Catalan Number
 	* Binomial Coefficient
 	* 0/1 Knapsack
+	* Equal Subset Sum Partition
 
 * Disjoint Set Union
 	* Path Compression
