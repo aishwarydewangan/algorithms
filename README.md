@@ -30,6 +30,7 @@
 	* Binomial Coefficient
 	* 0/1 Knapsack
 	* Equal Subset Sum Partition
+	* Subset Sum
 
 * Disjoint Set Union
 	* Path Compression
