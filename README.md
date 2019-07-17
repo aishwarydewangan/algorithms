@@ -33,6 +33,7 @@
 	* Subset Sum
 	* Minimum Subset Sum Difference
 	* Count of Subset Sum
+	* Target Sum
 
 * Disjoint Set Union
 	* Path Compression
