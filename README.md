@@ -32,6 +32,7 @@
 	* Equal Subset Sum Partition
 	* Subset Sum
 	* Minimum Subset Sum Difference
+	* Count of Subset Sum
 
 * Disjoint Set Union
 	* Path Compression
