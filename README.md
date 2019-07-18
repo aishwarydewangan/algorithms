@@ -35,6 +35,7 @@
 	* Count of Subset Sum
 	* Target Sum
 	* Unbounded Knapsack
+	* Coin Change
 
 * Disjoint Set Union
 	* Path Compression
