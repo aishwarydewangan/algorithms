@@ -34,6 +34,7 @@
 	* Minimum Subset Sum Difference
 	* Count of Subset Sum
 	* Target Sum
+	* Unbounded Knapsack
 
 * Disjoint Set Union
 	* Path Compression
