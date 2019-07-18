@@ -24,7 +24,6 @@
 	* Trie
 
 * Dynamic Programming
-	* Rod Cutting
 	* Matrix Multiplication
 	* Nth Catalan Number
 	* Binomial Coefficient
@@ -35,8 +34,10 @@
 	* Count of Subset Sum
 	* Target Sum
 	* Unbounded Knapsack
+	* Rod Cutting
 	* Coin Change
 	* Minimum Coin Change
+	* Maximum Ribbon Cut
 
 * Disjoint Set Union
 	* Path Compression
