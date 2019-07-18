@@ -36,6 +36,7 @@
 	* Target Sum
 	* Unbounded Knapsack
 	* Coin Change
+	* Minimum Coin Change
 
 * Disjoint Set Union
 	* Path Compression
