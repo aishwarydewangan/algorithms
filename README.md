@@ -38,6 +38,8 @@
 	* Coin Change
 	* Minimum Coin Change
 	* Maximum Ribbon Cut
+	* Nth-Fibonacci
+	* Staircase
 
 * Disjoint Set Union
 	* Path Compression
