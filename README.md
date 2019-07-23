@@ -40,6 +40,7 @@
 	* Maximum Ribbon Cut
 	* Nth-Fibonacci
 	* Staircase
+	* Minimum Jumps to reach the end
 
 * Disjoint Set Union
 	* Path Compression
