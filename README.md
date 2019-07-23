@@ -41,6 +41,8 @@
 	* Nth-Fibonacci
 	* Staircase
 	* Minimum Jumps to reach the end
+	* Minimum Jumps with fee
+	* House Thief
 
 * Disjoint Set Union
 	* Path Compression
