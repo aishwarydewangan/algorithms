@@ -45,6 +45,7 @@
 	* House Thief
 	* Longest Palindromic Subsequence
 	* Longest Palindromic Substring
+	* Palindromic Partitioning
 
 * Disjoint Set Union
 	* Path Compression
