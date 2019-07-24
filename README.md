@@ -43,6 +43,7 @@
 	* Minimum Jumps to reach the end
 	* Minimum Jumps with fee
 	* House Thief
+	* Longest Palindromic Subsequence
 
 * Disjoint Set Union
 	* Path Compression
