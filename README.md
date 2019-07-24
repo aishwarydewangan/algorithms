@@ -44,6 +44,7 @@
 	* Minimum Jumps with fee
 	* House Thief
 	* Longest Palindromic Subsequence
+	* Longest Palindromic Substring
 
 * Disjoint Set Union
 	* Path Compression
