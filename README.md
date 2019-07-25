@@ -48,6 +48,7 @@
 	* Palindromic Partitioning
 	* Longest Common Substring
 	* Longest Common Subsequence
+	* Longest Increasing Subsequence
 
 * Disjoint Set Union
 	* Path Compression
