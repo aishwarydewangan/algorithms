@@ -49,6 +49,7 @@
 	* Longest Common Substring
 	* Longest Common Subsequence
 	* Longest Increasing Subsequence
+	* Maximum Sum Increasing Subsequence
 
 * Disjoint Set Union
 	* Path Compression
