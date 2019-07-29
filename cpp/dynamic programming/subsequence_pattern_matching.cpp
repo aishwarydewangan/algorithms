@@ -43,6 +43,6 @@ int main() {
     string input = "baxmx", pattern = "ax";
     int n = input.size(), p = pattern.size();
     memo.resize(n, vector<int>(p, -1));
-    cout << patternCount(input, pattern, 0, 0);
+    cout << "Number of times the pattern appears in the string: " << patternCount(input, pattern, 0, 0);
     return 0;
 }

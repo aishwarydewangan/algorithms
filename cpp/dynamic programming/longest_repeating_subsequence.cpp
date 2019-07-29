@@ -51,6 +51,6 @@ int main() {
     string input = "aabdbcec";
     int n = input.size();
     memo.resize(n, vector<int>(n, -1));
-    cout << lrs(input, 0, 0);
+    cout << "Length of Longest Repeating Subsequence: " << lrs(input, 0, 0);
     return 0;
 }
