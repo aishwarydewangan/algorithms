@@ -53,6 +53,7 @@
 	* Shortest Common Supersequence
 	* Longest Repeating Subsequence
 	* Subsequence Pattern Matching
+	* Longest Bitonic Subsequence
 
 * Disjoint Set Union
 	* Path Compression
