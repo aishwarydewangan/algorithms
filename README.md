@@ -54,6 +54,7 @@
 	* Longest Repeating Subsequence
 	* Subsequence Pattern Matching
 	* Longest Bitonic Subsequence
+	* Longest Alternating Subsequence
 
 * Disjoint Set Union
 	* Path Compression
