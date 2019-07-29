@@ -51,6 +51,7 @@
 	* Longest Increasing Subsequence
 	* Maximum Sum Increasing Subsequence
 	* Shortest Common Supersequence
+	* Longest Repeating Subsequence
 
 * Disjoint Set Union
 	* Path Compression
