@@ -27,23 +27,23 @@ using namespace std;
 vector<vector<int>> memo;
 
 int edit(string& input1, string& input2, int i1, int i2) {
-    if(i1 == input1.size() or i2 == input2.size()) {
-        return 0;
+    if(memo[i1][i2] == -1) {
+        if(i1 == input1.size()) {
+            return (memo[i1][i2] = input2.size()-i2);
+        } else  if(i2 == input2.size()) {
+            return (memo[i1][i2] = input1.size()-i1);
+        } else if(input1[i1] == input2[i2]) {
+            return (memo[i1][i2] = edit(input1, input2, i1+1, i2+1));
+        } else {
+            int cost1 = edit(input1, input2, i1+1, i2)+1;   
+            int cost2 = edit(input1, input2, i1, i2+1)+1;   
+            int cost3 = edit(input1, input2, i1+1, i2+1)+1; 
+
+            memo[i1][i2] = min(cost1, min(cost2, cost3));
+        }
     }
     
-    if(memo[i1][i2] != -1) {
-        return memo[i1][i2];
-    }
-    
-    if(input1[i1] == input2[i2]) {
-        return (memo[i1][i2] = edit(input1, input2, i1+1, i2+1));
-    }
-    
-    int cost1 = edit(input1, input2, i1+1, i2)+1;   // deletion
-    int cost2 = edit(input1, input2, i1, i2+1)+1;   // insertion
-    int cost3 = edit(input1, input2, i1+1, i2+1)+1; // replacement
-    
-    return (memo[i1][i2] = min(cost1, min(cost2, cost3)));
+    return memo[i1][i2];
 }
 
 int main() {
