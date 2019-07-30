@@ -36,7 +36,7 @@ int edit(string& input1, string& input2, int i1, int i2) {
     }
     
     if(input1[i1] == input2[i2]) {
-        return edit(input1, input2, i1+1, i2+1);
+        return (memo[i1][i2] = edit(input1, input2, i1+1, i2+1));
     }
     
     int cost1 = edit(input1, input2, i1+1, i2)+1;   // deletion
