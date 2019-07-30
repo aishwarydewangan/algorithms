@@ -56,6 +56,7 @@
 	* Longest Bitonic Subsequence
 	* Longest Alternating Subsequence
 	* Edit Distance
+	* Strings Interleaving
 
 * Disjoint Set Union
 	* Path Compression
