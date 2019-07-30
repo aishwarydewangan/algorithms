@@ -55,6 +55,7 @@
 	* Subsequence Pattern Matching
 	* Longest Bitonic Subsequence
 	* Longest Alternating Subsequence
+	* Edit Distance
 
 * Disjoint Set Union
 	* Path Compression
