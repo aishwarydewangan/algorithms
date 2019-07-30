@@ -29,11 +29,11 @@ vector<vector<int>> memo;
 int edit(string& input1, string& input2, int i1, int i2) {
     if(memo[i1][i2] == -1) {
         if(i1 == input1.size()) {
-            return (memo[i1][i2] = input2.size()-i2);
+            memo[i1][i2] = input2.size()-i2;
         } else  if(i2 == input2.size()) {
-            return (memo[i1][i2] = input1.size()-i1);
+            memo[i1][i2] = input1.size()-i1;
         } else if(input1[i1] == input2[i2]) {
-            return (memo[i1][i2] = edit(input1, input2, i1+1, i2+1));
+            memo[i1][i2] = edit(input1, input2, i1+1, i2+1);
         } else {
             int cost1 = edit(input1, input2, i1+1, i2)+1;   
             int cost2 = edit(input1, input2, i1, i2+1)+1;   
