@@ -57,6 +57,7 @@
 	* Longest Alternating Subsequence
 	* Edit Distance
 	* Strings Interleaving
+	* Print LCS
 
 * Disjoint Set Union
 	* Path Compression
@@ -65,3 +66,6 @@
 	* Dijkstra - Single Source Shortest Path
 	* Topological Order
 	* Kosaraju - Strongly Connected Components
+
+* Misc
+	* Nth-Fibonacci using Matrix Exponentiation
