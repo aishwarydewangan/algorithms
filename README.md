@@ -22,6 +22,7 @@
 * Trees
 	* Binary Search Tree - Pre, In, Post, Level, BFS, DFS
 	* Trie
+	* Segment Tree - Range Minimum Query
 
 * Dynamic Programming
 	* Matrix Multiplication
