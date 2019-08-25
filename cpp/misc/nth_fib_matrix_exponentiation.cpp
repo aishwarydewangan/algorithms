@@ -1,34 +1,32 @@
 #include <bits/stdc++.h>
 
-#define ll long long
-#define matrix vector<vector<ll>>
 #define MOD 1000000007
+#define ll long long
 
 using namespace std;
 
-matrix mul(const matrix& v1, const matrix& v2) {
-    matrix res(2, vector<ll>(2, 1));
-    for(int i = 0; i < 2; i++) {
-        for(int j = 0; j < 2; j++) {
-            res[i][j] = 0;
-            for(int k = 0; k < 2; k++) {
-                res[i][j] = ((res[i][j]) % MOD + (v1[i][k]*v2[k][j]) % MOD) % MOD;
-            }
-        }
-    }
-    return res;
+void multiply(ll A[2][2], ll B[2][2]) {
+    ll result[2][2] = {0};
+    
+    for(int i = 0; i < 2; i++)
+        for(int j = 0; j < 2; j++)
+            for(int k = 0; k < 2; k++)
+                result[i][j] = (result[i][j] + (A[i][k] % MOD * B[k][j] % MOD) % MOD) % MOD;
+    
+    A[0][0] = result[0][0];
+    A[0][1] = result[0][1];
+    A[1][0] = result[1][0];
+    A[1][1] = result[1][1];
 }
 
-matrix power(matrix& base, ll e) {
-    matrix res(2, vector<ll>(2, 1));
-    res[0][0] = 0;
-    while(e > 0) {
-        if(e%2 == 1)
-            res = mul(base, res);
-        base = mul(base, base);
-        e = e/2;
-    }
-    return res;
+void power(ll m[2][2], ll n) {
+    if(n == 0 || n == 1)
+        return;
+    ll mat[2][2] = {{1, 1}, {1, 0}};
+    power(m, n/2);
+    multiply(m, m);
+    if(n%2)
+        multiply(m, mat);
 }
 
 int main() {
@@ -37,19 +35,10 @@ int main() {
     ll t;
     cin >> t;
     while(t--) {
-        ll int n;
+        ll n;
         cin >> n;
-        matrix fp(2, vector<ll>(1, 1));
-        fp[0][0] = 0;
-        fp[1][0] = 1;
-        matrix fn(2, vector<ll>(1, 1));
-        matrix t(2, vector<ll>(2, 1));
-        t[0][0] = 0;
-        t = power(t, n-1);
-        fn[0][0] = t[0][0]*fp[0][0] + t[0][1]*fp[1][0];
-        fn[1][0] = t[1][0]*fp[0][0] + t[1][1]*fp[1][0];
-        cout << fn[0][0] << endl;
-        
+        ll mat[2][2] = {{1, 1}, {1, 0}};
+        power(mat, n-1);
+        cout << mat[0][0] << endl;
     }
-    return 0;
 }
