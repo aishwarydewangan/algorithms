@@ -59,3 +59,13 @@
 | 56 | Kosaraju - Strongly Connected Components| [C++](./graphs/kosaraju.cpp) | Graphs |
 | 57 | Nth-Fibonacci using Matrix Exponentiation | [C++](./misc/nth_fib_matrix_exponentiation.cpp) | Misc |
 | 58 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) | Misc |
+
+
+# LeetCode
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./leetcode/1_Two_Sum.cpp) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./leetcode/2_Add_Two_Numbers.cpp) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./leetcode/3_Longest_Substring_Without_Repeating_Characters.cpp) | Medium 
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./leetcode/5_Longest_Palindromic_Substring.cpp.cpp) | Medium |
