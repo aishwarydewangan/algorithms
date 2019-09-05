@@ -1,13 +1,13 @@
 # Data Structures and Algorithms
 
-## Searching
+* Searching
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
 	| 1 | Linear Search | [C++](./search/linear.cpp) |
 	| 2 | Binary Search | [C++](./search/binary.cpp) | 
 
-## Sorting
+* Sorting
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
@@ -17,13 +17,13 @@
 	| 4 | Quick Sort | [C++](./sort/quick.cpp) |
 	| 5 | Merge Sort | [C++](./sort/merge.cpp) |
 
-## Backtracking
+* Backtracking
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
 	| 1 | N-Queens | [C++](./backtracking/n-queens.cpp) |
 
-## Linked List
+* Linked List
 	
 	| # | Title | Solution |
 	|---| ----- | -------- |
@@ -31,7 +31,7 @@
 	| 2 | Doubly Linked List | [C++](./linkedlist/doubly.cpp) |
 	| 3 | Circular Linked List | [C++](./linkedlist/circular.cpp) |
 
-## Trees
+* Trees
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
@@ -39,7 +39,7 @@
 	| 2 | Trie | [C++](./trees/trie.cpp) |
 	| 3 | Segment Tree - Range Minimum Query | [C++](./trees/segment_tree_rmq.cpp) |
 
-## Dynamic Programming
+* Dynamic Programming
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
@@ -78,7 +78,7 @@
 	| 33 | Strings Interleaving | [C++](./dynamic programming/strings_interleaving.cpp) |
 	| 34 | Print LCS | [C++](./dynamic programming/print_lcs.cpp) |
 
-## Disjoint Set Union
+* Disjoint Set Union
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
@@ -87,7 +87,7 @@
 	| 3 | Union By Rank | [C++](./dsu/union_by_rank.cpp) |
 	| 4 | Union By Size | [C++](./dsu/union_by_size.cpp) |
 
-## Graphs
+* Graphs
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
@@ -95,9 +95,9 @@
 	| 2 | Topological Order | [C++](./graphs/topological.cpp) |
 	| 3 | Kosaraju - Strongly Connected Components| [C++](./graphs/kosaraju.cpp) |
 
-## Misc
+* Misc
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
-	| 1 | Nth-Fibonacci using Matrix Exponentiation | [C++](./misc/largest_sum_continuous_subarray.cpp) |
-	| 2 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/nth_fib_matrix_exponentiation.cpp) |
+	| 1 | Nth-Fibonacci using Matrix Exponentiation | [C++](./misc/nth_fib_matrix_exponentiation.cpp) |
+	| 2 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) |
