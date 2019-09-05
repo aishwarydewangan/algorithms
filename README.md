@@ -1,7 +1,7 @@
 # Data Structures and Algorithms
 
 | # | Title | Solution | Topic |
-|---| ----- | -------- |
+|---| ----- | -------- | ----- |
 | 1 | Linear Search | [C++](./search/linear.cpp) | Searching |
 | 2 | Binary Search | [C++](./search/binary.cpp) | Searching |
 | 3 | Bubble Sort | [C++](./sort/bubble.cpp) | Sorting |
