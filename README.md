@@ -43,40 +43,40 @@
 
 	| # | Title | Solution |
 	|---| ----- | -------- |
-	| 1 | Matrix Multiplication | [C++](./dynamic programming/matrix_multiplication.cpp) |
-	| 2 | Nth Catalan Number | [C++](./dynamic programming/nth-catalan.cpp) |
-	| 3 | Binomial Coefficient | [C++](./dynamic programming/binomial_coefficient.cpp) |
-	| 4 | 0/1 Knapsack | [C++](./dynamic programming/01_knapsack.cpp) |
-	| 5 | Equal Subset Sum Partition | [C++](./dynamic programming/equal_subset_sum_partition.cpp) |
-	| 6 | Subset Sum | [C++](./dynamic programming/subset_sum.cpp) |
-	| 7 | Minimum Subset Sum Difference | [C++](./dynamic programming/min_subset_sum_difference.cpp) |
-	| 8 | Count of Subset Sum | [C++](./dynamic programming/count_subset_sum.cpp) |
-	| 9 | Target Sum | [C++](./dynamic programming/target_sum.cpp) |
-	| 10 | Unbounded Knapsack | [C++](./dynamic programming/unbounded_knapsack.cpp) |
-	| 11 | Rod Cutting | [C++](./dynamic programming/rod_cutting.cpp) |
-	| 12 | Coin Change | [C++](./dynamic programming/coin_change.cpp) |
-	| 13 | Minimum Coin Change | [C++](./dynamic programming/min_coin_change.cpp) |
-	| 14 | Maximum Ribbon Cut | [C++](./dynamic programming/max_ribbon_cut.cpp) |
-	| 15 | Nth-Fibonacci | [C++](./dynamic programming/nth-fibonacci.cpp) |
-	| 16 | Staircase | [C++](./dynamic programming/staircase.cpp) |
-	| 17 | Minimum Jumps to reach the end | [C++](./dynamic programming/min_jumps.cpp) |
-	| 18 | Minimum Jumps with fee | [C++](./dynamic programming/min_jumps_with_fee.cpp) |
-	| 19 | House Thief | [C++](./dynamic programming/house_thief.cpp) |
-	| 20 | Longest Palindromic Subsequence | [C++](./dynamic programming/longest_palindromic_subsequence.cpp) |
-	| 21 | Longest Palindromic Substring | [C++](./dynamic programming/longest_palindromic_substring.cpp) |
-	| 22 | Palindromic Partitioning | [C++](./dynamic programming/palindromic_partitioning.cpp) |
-	| 23 | Longest Common Substring | [C++](./dynamic programming/longest_common_substring.cpp) |
-	| 24 | Longest Common Subsequence | [C++](./dynamic programming/longest_common_subsequence.cpp) |
-	| 25 | Longest Increasing Subsequence | [C++](./dynamic programming/longest_increasing_subsequence.cpp) |
-	| 26 | Maximum Sum Increasing Subsequence | [C++](./dynamic programming/max_sum_lis.cpp) |
-	| 27 | Shortest Common Supersequence | [C++](./dynamic programming/shortest_common_supersequence.cpp) |
-	| 28 | Longest Repeating Subsequence | [C++](./dynamic programming/longest_repeating_subsequence.cpp) |
-	| 29 | Subsequence Pattern Matching | [C++](./dynamic programming/subsequence_pattern_matching.cpp) |
-	| 30 | Longest Bitonic Subsequence | [C++](./dynamic programming/longest_bitonic_subsequence.cpp) |
-	| 31 | Longest Alternating Subsequence | [C++](./dynamic programming/longest_alternating_subsequence.cpp) |
-	| 32 | Edit Distance | [C++](./dynamic programming/edit_distance.cpp) |
-	| 33 | Strings Interleaving | [C++](./dynamic programming/strings_interleaving.cpp) |
-	| 34 | Print LCS | [C++](./dynamic programming/print_lcs.cpp) |
+	| 1 | Matrix Multiplication | [C++](./dp/matrix_multiplication.cpp) |
+	| 2 | Nth Catalan Number | [C++](./dp/nth-catalan.cpp) |
+	| 3 | Binomial Coefficient | [C++](./dp/binomial_coefficient.cpp) |
+	| 4 | 0/1 Knapsack | [C++](./dp/01_knapsack.cpp) |
+	| 5 | Equal Subset Sum Partition | [C++](./dp/equal_subset_sum_partition.cpp) |
+	| 6 | Subset Sum | [C++](./dp/subset_sum.cpp) |
+	| 7 | Minimum Subset Sum Difference | [C++](./dp/min_subset_sum_difference.cpp) |
+	| 8 | Count of Subset Sum | [C++](./dp/count_subset_sum.cpp) |
+	| 9 | Target Sum | [C++](./dp/target_sum.cpp) |
+	| 10 | Unbounded Knapsack | [C++](./dp/unbounded_knapsack.cpp) |
+	| 11 | Rod Cutting | [C++](./dp/rod_cutting.cpp) |
+	| 12 | Coin Change | [C++](./dp/coin_change.cpp) |
+	| 13 | Minimum Coin Change | [C++](./dp/min_coin_change.cpp) |
+	| 14 | Maximum Ribbon Cut | [C++](./dp/max_ribbon_cut.cpp) |
+	| 15 | Nth-Fibonacci | [C++](./dp/nth-fibonacci.cpp) |
+	| 16 | Staircase | [C++](./dp/staircase.cpp) |
+	| 17 | Minimum Jumps to reach the end | [C++](./dp/min_jumps.cpp) |
+	| 18 | Minimum Jumps with fee | [C++](./dp/min_jumps_with_fee.cpp) |
+	| 19 | House Thief | [C++](./dp/house_thief.cpp) |
+	| 20 | Longest Palindromic Subsequence | [C++](./dp/longest_palindromic_subsequence.cpp) |
+	| 21 | Longest Palindromic Substring | [C++](./dp/longest_palindromic_substring.cpp) |
+	| 22 | Palindromic Partitioning | [C++](./dp/palindromic_partitioning.cpp) |
+	| 23 | Longest Common Substring | [C++](./dp/longest_common_substring.cpp) |
+	| 24 | Longest Common Subsequence | [C++](./dp/longest_common_subsequence.cpp) |
+	| 25 | Longest Increasing Subsequence | [C++](./dp/longest_increasing_subsequence.cpp) |
+	| 26 | Maximum Sum Increasing Subsequence | [C++](./dp/max_sum_lis.cpp) |
+	| 27 | Shortest Common Supersequence | [C++](./dp/shortest_common_supersequence.cpp) |
+	| 28 | Longest Repeating Subsequence | [C++](./dp/longest_repeating_subsequence.cpp) |
+	| 29 | Subsequence Pattern Matching | [C++](./dp/subsequence_pattern_matching.cpp) |
+	| 30 | Longest Bitonic Subsequence | [C++](./dp/longest_bitonic_subsequence.cpp) |
+	| 31 | Longest Alternating Subsequence | [C++](./dp/longest_alternating_subsequence.cpp) |
+	| 32 | Edit Distance | [C++](./dp/edit_distance.cpp) |
+	| 33 | Strings Interleaving | [C++](./dp/strings_interleaving.cpp) |
+	| 34 | Print LCS | [C++](./dp/print_lcs.cpp) |
 
 * Disjoint Set Union
 
