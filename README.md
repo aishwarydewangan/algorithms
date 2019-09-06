@@ -78,3 +78,4 @@
 | 2 | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [C++](./interviewbit/arrays/Add_One_To_Number.cpp) | Arrays |
 | 3 | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/) | [C++](./interviewbit/arrays/Max_Sum_Contiguous_Subarray.cpp) | Arrays |
 | 4 | [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | [C++](./interviewbit/arrays/Maximum_Absolute_Difference.cpp) | Arrays |
+| 5 | [Find Permutation](https://www.interviewbit.com/problems/find-permutation/) | [C++](./interviewbit/arrays/Find_Permutation.cpp) | Arrays |
