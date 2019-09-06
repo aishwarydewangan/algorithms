@@ -65,10 +65,14 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./leetcode/1_Two_Sum.cpp) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./leetcode/2_Add_Two_Numbers.cpp) | Medium |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./leetcode/3_Longest_Substring_Without_Repeating_Characters.cpp) | Medium |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./leetcode/5_Longest_Palindromic_Substring.cpp) | Medium |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./leetcode/Two_Sum.cpp) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./leetcode/Add_Two_Numbers.cpp) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./leetcode/Longest_Substring_Without_Repeating_Characters.cpp) | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./leetcode/Longest_Palindromic_Substring.cpp) | Medium |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./leetcode/ZigZag_Conversion.cpp) | Medium |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./leetcode/String_to_Integer.cpp) | Medium |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./leetcode/Container_With_Most_Water.cpp) | Medium |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./leetcode/Longest_Common_Prefix.cpp) | Easy |
 
 # InterviewBit
 
