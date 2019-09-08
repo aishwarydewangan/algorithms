@@ -88,10 +88,3 @@
 | 6 | [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [C++](./interviewbit/arrays/Repeat_and_Missing_Number.cpp) | Arrays |
 | 7 | [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/) | [C++](./interviewbit/arrays/Merge_Intervals.cpp) | Arrays |
 | 8 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 9 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 10 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 11 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 12 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 13 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 14 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
-| 15 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
