@@ -59,6 +59,7 @@
 | 56 | Kosaraju - Strongly Connected Components| [C++](./graphs/kosaraju.cpp) | Graphs |
 | 57 | Nth-Fibonacci using Matrix Exponentiation | [C++](./misc/nth_fib_matrix_exponentiation.cpp) | Misc |
 | 58 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) | Misc |
+| 59 | Voting Algorithms (Boyer–Moore Majority Voting Algorithm) | [C++](./misc/voting_algorithm.cpp) | Misc |
 
 
 # LeetCode
