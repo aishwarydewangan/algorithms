@@ -96,3 +96,15 @@
 | [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/) | [C++](./interviewbit/arrays/Rotate_Matrix.cpp) | Arrays |
 | [Next Permutation](https://www.interviewbit.com/problems/next-permutation/) | [C++](./interviewbit/arrays/Next_Permutation.cpp) | Arrays |
 | [Find Permutation](https://www.interviewbit.com/problems/find-permutation/) | [C++](./interviewbit/arrays/Find_Permutation.cpp) | Arrays |
+| [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/) | [C++](./interviewbit/arrays/MAXSPPROD.cpp) | Arrays |
+| [Set Matrix Zeros](https://www.interviewbit.com/problems/set-matrix-zeros/) | [C++](./interviewbit/arrays/Set_Matrix_Zeros.cpp) | Arrays |
+| [First Missing Integer](https://www.interviewbit.com/problems/first-missing-integer/) | [C++](./interviewbit/arrays/First_Missing_Integer.cpp) | Arrays |
+| [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | [C++](./interviewbit/arrays/Find_Duplicate_in_Array.cpp) | Arrays |
+| [N/3 Repeat Number](https://www.interviewbit.com/problems/n3-repeat-number/) | [C++](./interviewbit/arrays/N3_Repeat_Number.cpp) | Arrays |
+| [Noble Integer](https://www.interviewbit.com/problems/noble-integer/) | [C++](./interviewbit/arrays/Noble_Integer.cpp) | Arrays |
+| [Triplets with Sum between given range](https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/) | [C++](./interviewbit/arrays/Triplets_with_Sum_between_given_range.cpp) | Arrays |
+| [Wave Array](https://www.interviewbit.com/problems/wave-array/) | [C++](./interviewbit/arrays/Wave_Array.cpp) | Arrays |
+| [Hotel Bookings Possible](https://www.interviewbit.com/problems/hotel-bookings-possible/) | [C++](./interviewbit/arrays/Hotel_Bookings_Possible.cpp) | Arrays |
+| [Max Distance](https://www.interviewbit.com/problems/max-distance/) | [C++](./interviewbit/arrays/Max_Distance.cpp) | Arrays |
+| [Maximum Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/) | [C++](./interviewbit/arrays/Maximum_Unsorted_Subarray.cpp) | Arrays |
+| [Maximum Consecutive Gap](https://www.interviewbit.com/problems/maximum-consecutive-gap/) | [C++](./interviewbit/arrays/Maximum_Consecutive_Gap.cpp) | Arrays |
