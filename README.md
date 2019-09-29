@@ -65,26 +65,34 @@
 
 # LeetCode
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./leetcode/Two_Sum.cpp) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./leetcode/Add_Two_Numbers.cpp) | Medium |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./leetcode/Longest_Substring_Without_Repeating_Characters.cpp) | Medium |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./leetcode/Longest_Palindromic_Substring.cpp) | Medium |
-| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./leetcode/ZigZag_Conversion.cpp) | Medium |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./leetcode/String_to_Integer.cpp) | Medium |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./leetcode/Container_With_Most_Water.cpp) | Medium |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./leetcode/Longest_Common_Prefix.cpp) | Easy |
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./leetcode/Two_Sum.cpp) | Easy |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./leetcode/Add_Two_Numbers.cpp) | Medium |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./leetcode/Longest_Substring_Without_Repeating_Characters.cpp) | Medium |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./leetcode/Longest_Palindromic_Substring.cpp) | Medium |
+| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./leetcode/ZigZag_Conversion.cpp) | Medium |
+| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./leetcode/String_to_Integer.cpp) | Medium |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./leetcode/Container_With_Most_Water.cpp) | Medium |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./leetcode/Longest_Common_Prefix.cpp) | Easy |
 
 # InterviewBit
 
-| # | Title | Solution | Topic |
-|---| ----- | -------- | ----- |
-| 1 | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [C++](./interviewbit/arrays/Min_Steps_in_Infinite_Grid.cpp) | Arrays |
-| 2 | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [C++](./interviewbit/arrays/Add_One_To_Number.cpp) | Arrays |
-| 3 | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/) | [C++](./interviewbit/arrays/Max_Sum_Contiguous_Subarray.cpp) | Arrays |
-| 4 | [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | [C++](./interviewbit/arrays/Maximum_Absolute_Difference.cpp) | Arrays |
-| 5 | [Find Permutation](https://www.interviewbit.com/problems/find-permutation/) | [C++](./interviewbit/arrays/Find_Permutation.cpp) | Arrays |
-| 6 | [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [C++](./interviewbit/arrays/Repeat_and_Missing_Number.cpp) | Arrays |
-| 7 | [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/) | [C++](./interviewbit/arrays/Merge_Intervals.cpp) | Arrays |
-| 8 | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
+| Title | Solution | Topic |
+| ----- | -------- | ----- |
+| [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [C++](./interviewbit/arrays/Min_Steps_in_Infinite_Grid.cpp) | Arrays |
+| [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [C++](./interviewbit/arrays/Add_One_To_Number.cpp) | Arrays |
+| [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/) | [C++](./interviewbit/arrays/Max_Sum_Contiguous_Subarray.cpp) | Arrays |
+| [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | [C++](./interviewbit/arrays/Maximum_Absolute_Difference.cpp) | Arrays |
+| [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [C++](./interviewbit/arrays/Repeat_and_Missing_Number.cpp) | Arrays |
+| [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/) | [C++](./interviewbit/arrays/Merge_Intervals.cpp) | Arrays |
+| [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./interviewbit/arrays/Merge_Overlapping_Intervals.cpp) | Arrays |
+| [Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) | [C++](./interviewbit/arrays/Max_Non_Negative_SubArray.cpp) | Arrays |
+| [Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/) | [C++](./interviewbit/arrays/Spiral_Order_Matrix_II.cpp) | Arrays |
+| [Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/) | [C++](./interviewbit/arrays/Pascal_Triangle.cpp) | Arrays |
+| [Kth Row of Pascal's Triangle](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/) | [C++](./interviewbit/arrays/Kth_Row_of_Pascal_Triangle.cpp) | Arrays |
+| [Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/) | [C++](./interviewbit/arrays/Anti_Diagonals.cpp) | Arrays |
+| [Largest Number](https://www.interviewbit.com/problems/largest-number/) | [C++](./interviewbit/arrays/Largest_Number.cpp) | Arrays |
+| [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/) | [C++](./interviewbit/arrays/Rotate_Matrix.cpp) | Arrays |
+| [Next Permutation](https://www.interviewbit.com/problems/next-permutation/) | [C++](./interviewbit/arrays/Next_Permutation.cpp) | Arrays |
+| [Find Permutation](https://www.interviewbit.com/problems/find-permutation/) | [C++](./interviewbit/arrays/Find_Permutation.cpp) | Arrays |
