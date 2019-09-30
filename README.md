@@ -62,6 +62,7 @@
 | 59 | Voting Algorithm (Boyer–Moore Majority Voting Algorithm) | [C++](./misc/voting_algorithm.cpp) | Misc |
 | 60 | Next Permutation | [C++](./misc/next_permutation.cpp) | Misc |
 | 61 | Trapping Rain Water | [C++](./misc/trapping_rain_water.cpp) | Misc |
+| 62 | Trapping Rain Water (DP) | [C++](./misc/trapping_rain_water_dp.cpp) | Misc |
 
 
 # LeetCode
