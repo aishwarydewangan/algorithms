@@ -61,6 +61,7 @@
 | 58 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) | Misc |
 | 59 | Voting Algorithm (Boyer–Moore Majority Voting Algorithm) | [C++](./misc/voting_algorithm.cpp) | Misc |
 | 60 | Next Permutation | [C++](./misc/next_permutation.cpp) | Misc |
+| 61 | Trapping Rain Water | [C++](./misc/trapping_rain_water.cpp) | Misc |
 
 
 # LeetCode
