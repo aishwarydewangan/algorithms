@@ -13,25 +13,20 @@ Your algorithm should run in O(n) time and use constant space.
 */
 
 int Solution::firstMissingPositive(vector<int> &A) {
-    int n = A.size(), j = 0;
-    for(int i = 0; i < n; i++) {
-        if(A[i] <= 0) {
-            swap(A[i], A[j]);
-            j++;
+    // vector<int> v(A.size());
+    int i,pos,n=A.size();
+    for(i=0;i<n;i++){
+        if(A[i]>0 && A[i]<=n){
+            pos=A[i]-1;
+            if(A[i]!=A[pos]){
+                swap(A[i],A[pos]);
+                i--;
+            }
         }
     }
-    A.erase(A.begin(), A.begin()+j);
-    n = A.size();
-    for(int i = 0; i < n; i++) {
-        j = abs(A[i]);
-        if(j-1 < n && A[j-1] > 0) {
-            A[j-1] = -A[j-1];
-        }
+    for(i=0;i<n;i++){
+        if(A[i]!=i+1)return i+1;
     }
-    for(int i = 0; i < n; i++) {
-        if(A[i] > 0) {
-            return i+1;
-        }
-    }
-    return n+1;
+    return A.size()+1;
 }
+
