@@ -78,7 +78,7 @@
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./leetcode/Container_With_Most_Water.cpp) | Medium |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./leetcode/Longest_Common_Prefix.cpp) | Easy |
 
-# InterviewBit
+# Interview Bit
 
 | Title | Solution | Topic |
 | ----- | -------- | ----- |
