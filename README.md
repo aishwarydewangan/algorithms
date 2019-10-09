@@ -80,8 +80,8 @@
 
 # Interview Bit
 
-| Title | Solution | Topic |
-| ----- | -------- | ----- |
+| Title | Solution | Topic  |
+| ----- | -------- | -----  |
 | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [C++](./interviewbit/arrays/Min_Steps_in_Infinite_Grid.cpp) | Arrays |
 | [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [C++](./interviewbit/arrays/Add_One_To_Number.cpp) | Arrays |
 | [Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/) | [C++](./interviewbit/arrays/Max_Sum_Contiguous_Subarray.cpp) | Arrays |
