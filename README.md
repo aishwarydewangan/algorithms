@@ -10,7 +10,7 @@
 | 6 | Quick Sort | [C++](./sort/quick.cpp) | Sorting |
 | 8 | Merge Sort | [C++](./sort/merge.cpp) | Sorting |
 | 9 | N-Queens | [C++](./backtracking/n-queens.cpp) | Backtracking |
-| 10 | Singly Linked List | [C++](./linkedlist/singly.cpp) | Linked List |
+| 10 | Singly Linked List | [C++](./linkedlist/singly.cpp) [Go](./linkedlist/singly.go) | Linked List |
 | 11 | Doubly Linked List | [C++](./linkedlist/doubly.cpp) | Linked List |
 | 12 | Circular Linked List | [C++](./linkedlist/circular.cpp) | Linked List |
 | 13 | Binary Search Tree - Pre, In, Post, Level, BFS, DFS | [C++](./trees/bst.cpp) | Trees |
