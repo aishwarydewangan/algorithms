@@ -47,13 +47,13 @@ int lcs(string& input1, string& input2, int index1, int index2, int count) {
 // Bottom-up
 int lcs(string& input1, string& input2) {
     
-    int length = INT_MIN, n1 = input1.size(), n2 = input2.size();
+    int length = 0, n1 = input1.size(), n2 = input2.size();
     
-    vector<vector<int>> dp(n1+1, vector<int>(n2+1));
+    vector<vector<int>> dp(n1+1, vector<int>(n2+1, 0));
     
     for(int i = 1; i <= n1; i++) {
         for(int j = 1; j <= n2; j++) {
-            if(input1[i] == input2[j]) {
+            if(input1[i-1] == input2[j-1]) {
                 dp[i][j] = dp[i-1][j-1]+1;
                 length = max(length, dp[i][j]);
             }
