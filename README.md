@@ -58,8 +58,7 @@
 | 55 | Topological Order (Stack) | [C++](./graphs/topological-stack.cpp) | Graphs |
 | 56 | Kosaraju - Strongly Connected Components| [C++](./graphs/kosaraju.cpp) | Graphs |
 | 57 | Nth-Fibonacci using Matrix Exponentiation | [C++](./misc/nth_fib_matrix_exponentiation.cpp) | Misc |
-| 58 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) |
- Misc |
+| 58 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) |Misc |
 | 59 | Voting Algorithm (Boyer–Moore Majority Voting Algorithm) | [C++](./misc/voting_algorithm.cpp) | Misc |
 | 60 | Next Permutation | [C++](./misc/next_permutation.cpp) | Misc |
 | 61 | Trapping Rain Water | [C++](./misc/trapping_rain_water.cpp) | Misc |
