@@ -67,6 +67,8 @@
 | 64 | Topological Order (All) | [C++](./graphs/topological_all.cpp) | Graphs |
 | 65 | Largest Area in Histogram | [C++](./stacks/largest_area_in_histogram.cpp) | Stacks |
 | 65 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) | DP |
+| 66 | Minimum Spanning Tree - Kruskal | [C++](./graphs/kruskal.cpp) | Graphs |
+| 67 | Minimum Spanning Tree - Prim | [C++](./graphs/prim.cpp) | Graphs |
 
 
 # LeetCode
