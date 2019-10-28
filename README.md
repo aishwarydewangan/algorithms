@@ -9,7 +9,7 @@
 | 5 | Insertion Sort | [C++](./sort/insertion.cpp) | Sorting |
 | 6 | Quick Sort | [C++](./sort/quick.cpp) | Sorting |
 | 8 | Merge Sort | [C++](./sort/merge.cpp) | Sorting |
-| 9 | N-Queens | [C++](./backtracking/n-queens.cpp) | Backtracking |
+| 9 | N-Queens | [C++](./backtracking/n_queens.cpp) | Backtracking |
 | 10 | Singly Linked List | [C++](./linkedlist/singly.cpp) [Go](./linkedlist/singly.go) | Linked List |
 | 11 | Doubly Linked List | [C++](./linkedlist/doubly.cpp) | Linked List |
 | 12 | Circular Linked List | [C++](./linkedlist/circular.cpp) | Linked List |
@@ -55,7 +55,7 @@
 | 52 | Union By Rank | [C++](./dsu/union_by_rank.cpp) | DSU |
 | 53 | Union By Size | [C++](./dsu/union_by_size.cpp) | DSU |
 | 54 | Dijkstra - Single Source Shortest Path | [C++](./graphs/dijkstra.cpp) | Graphs |
-| 55 | Topological Order (Stack) | [C++](./graphs/topological-stack.cpp) | Graphs |
+| 55 | Topological Order (Stack) | [C++](./graphs/topological_stack.cpp) | Graphs |
 | 56 | Kosaraju - Strongly Connected Components| [C++](./graphs/kosaraju.cpp) | Graphs |
 | 57 | Nth-Fibonacci using Matrix Exponentiation | [C++](./misc/nth_fib_matrix_exponentiation.cpp) | Misc |
 | 58 | Largest Sum Continuous Subarray (Kadane's Algorithm) | [C++](./misc/largest_sum_continuous_subarray.cpp) |Misc |
@@ -63,7 +63,11 @@
 | 60 | Next Permutation | [C++](./misc/next_permutation.cpp) | Misc |
 | 61 | Trapping Rain Water | [C++](./misc/trapping_rain_water.cpp) | Misc |
 | 62 | Trapping Rain Water (DP) | [C++](./misc/trapping_rain_water_dp.cpp) | Misc |
-| 63 | Topological Order (Indegree) | [C++](./graphs/topological-indegree.cpp) | Graphs |
+| 63 | Topological Order (Indegree) | [C++](./graphs/topological_indegree.cpp) | Graphs |
+| 64 | Topological Order (All) | [C++](./graphs/topological_all.cpp) | Graphs |
+| 65 | Largest Area in Histogram | [C++](./stacks/largest_area_in_histogram.cpp) | Stacks |
+| 65 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) | DP |
+
 
 # LeetCode
 
