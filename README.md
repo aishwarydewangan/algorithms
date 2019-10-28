@@ -69,6 +69,7 @@
 | 65 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) | Dynamic Programming |
 | 66 | Minimum Spanning Tree - Kruskal | [C++](./graphs/kruskal.cpp) | Graphs |
 | 67 | Minimum Spanning Tree - Prim | [C++](./graphs/prim.cpp) | Graphs |
+| 68 | Kth - Permutation | [C++](./misc/kth_permutation.cpp) | Misc |
 
 
 # LeetCode
@@ -84,7 +85,7 @@
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./leetcode/Container_With_Most_Water.cpp) | Medium |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./leetcode/Longest_Common_Prefix.cpp) | Easy |
 
-# Interview Bit
+# InterviewBit
 
 | Title | Solution | Topic  |
 | ----- | -------- | -----  |
