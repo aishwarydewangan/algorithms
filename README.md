@@ -70,6 +70,9 @@
 | 66 | Minimum Spanning Tree - Kruskal | [C++](./graphs/kruskal.cpp) | Graphs |
 | 67 | Minimum Spanning Tree - Prim | [C++](./graphs/prim.cpp) | Graphs |
 | 68 | Kth - Permutation | [C++](./misc/kth_permutation.cpp) | Misc |
+| 69 | Merge k Sorted Lists | [C++](./linkedlist/merge_k_sorted_list.cpp) | Linked List |
+| 70 | Reverse Nodes in k-Group | [C++](./linkedlist/reverse_nodes_in_k_group.cpp) | Linked List |
+| 71 | Linked List Cycle | [C++](./linkedlist/linked_list_cycle.cpp) | Linked List |
 
 
 # LeetCode
