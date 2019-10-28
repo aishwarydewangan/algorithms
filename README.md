@@ -10,7 +10,7 @@
 | 6 | Quick Sort | [C++](./sort/quick.cpp) | Sorting |
 | 8 | Merge Sort | [C++](./sort/merge.cpp) | Sorting |
 | 9 | N-Queens | [C++](./backtracking/n_queens.cpp) | Backtracking |
-| 10 | Singly Linked List | [C++](./linkedlist/singly.cpp) [Go](./linkedlist/singly.go) | Linked List |
+| 10 | Singly Linked List | [C++](./linkedlist/singly.cpp) | Linked List |
 | 11 | Doubly Linked List | [C++](./linkedlist/doubly.cpp) | Linked List |
 | 12 | Circular Linked List | [C++](./linkedlist/circular.cpp) | Linked List |
 | 13 | Binary Search Tree - Pre, In, Post, Level, BFS, DFS | [C++](./trees/bst.cpp) | Trees |
@@ -66,7 +66,7 @@
 | 63 | Topological Order (Indegree) | [C++](./graphs/topological_indegree.cpp) | Graphs |
 | 64 | Topological Order (All) | [C++](./graphs/topological_all.cpp) | Graphs |
 | 65 | Largest Area in Histogram | [C++](./stacks/largest_area_in_histogram.cpp) | Stacks |
-| 65 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) | DP |
+| 65 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) | Dynamic Programming |
 | 66 | Minimum Spanning Tree - Kruskal | [C++](./graphs/kruskal.cpp) | Graphs |
 | 67 | Minimum Spanning Tree - Prim | [C++](./graphs/prim.cpp) | Graphs |
 
