@@ -1,5 +1,12 @@
 # Data Structures and Algorithms
 
+## Searching
+
+| Title | Solution | 
+| ----- | -------- |
+| Linear Search | [C++](./search/linear.cpp) |
+| Binary Search | [C++](./search/binary.cpp) |
+
 ## Sorting
 
 | Title | Solution |
@@ -10,18 +17,11 @@
 | Quick Sort | [C++](./sort/quick.cpp) |
 | Merge Sort | [C++](./sort/merge.cpp) |
 
-## Searching
-
-| Title | Solution | 
-| ----- | -------- |
-| Linear Search | [C++](./search/linear.cpp) |
-| Binary Search | [C++](./search/binary.cpp) |
-
-## Backtracking
+## Stacks
 
 | Title | Solution |
 | ----- | -------- |
-| N-Queens | [C++](./backtracking/n_queens.cpp) |
+| Largest Area in Histogram | [C++](./stacks/largest_area_in_histogram.cpp) |
 
 ## Linked List
 
@@ -50,6 +50,12 @@
 | Path Compression | [C++](./dsu/path_compression.cpp) |
 | Union By Rank | [C++](./dsu/union_by_rank.cpp) |
 | Union By Size | [C++](./dsu/union_by_size.cpp) |
+
+## Backtracking
+
+| Title | Solution |
+| ----- | -------- |
+| N-Queens | [C++](./backtracking/n_queens.cpp) |
 
 ## Dynamic Programming
 
@@ -102,12 +108,6 @@
 | Topological Order (All) | [C++](./graphs/topological_all.cpp) |
 | Minimum Spanning Tree - Kruskal | [C++](./graphs/kruskal.cpp) |
 | Minimum Spanning Tree - Prim | [C++](./graphs/prim.cpp) |
-
-## Stacks
-
-| Title | Solution |
-| ----- | -------- |
-| Largest Area in Histogram | [C++](./stacks/largest_area_in_histogram.cpp) |
 
 ## Misc
 
