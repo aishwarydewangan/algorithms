@@ -96,7 +96,7 @@
 | Strings Interleaving | [C++](./dp/strings_interleaving.cpp) |
 | Print LCS | [C++](./dp/print_lcs.cpp) |
 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) |
-] Wiggle Subsequence | [C++](./dp/wiggle_subsequence.cpp) |
+| Wiggle Subsequence | [C++](./dp/wiggle_subsequence.cpp) |
 
 ## Graphs
 
@@ -121,3 +121,6 @@
 | Trapping Rain Water | [C++](./misc/trapping_rain_water.cpp) |
 | Trapping Rain Water (DP) | [C++](./misc/trapping_rain_water_dp.cpp) |
 | Kth - Permutation | [C++](./misc/kth_permutation.cpp) |
+| Container With Most Water | [C++](./misc/container_with_most_water.cpp) |
+| Palindromic Substrings | [C++](./misc/palindromic_substrings.cpp) |
+| LRU Cache | [C++](./misc/lru_cache.cpp) |
