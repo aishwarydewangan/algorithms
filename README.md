@@ -96,6 +96,7 @@
 | Strings Interleaving | [C++](./dp/strings_interleaving.cpp) |
 | Print LCS | [C++](./dp/print_lcs.cpp) |
 | Longest Valid Parentheses | [C++](./dp/longest_valid_parentheses.cpp) |
+] Wiggle Subsequence | [C++](./dp/wiggle_subsequence.cpp) |
 
 ## Graphs
 
