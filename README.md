@@ -109,6 +109,9 @@
 | Topological Order (All) | [C++](./graphs/topological_all.cpp) |
 | Minimum Spanning Tree - Kruskal | [C++](./graphs/kruskal.cpp) |
 | Minimum Spanning Tree - Prim | [C++](./graphs/prim.cpp) |
+| Detect Cycle in Undirected Graph (DFS) | [C++](./graphs/cycle_detection_dfs_undirected.cpp) |
+| Detect Cycle in Undirected Graph (DSU) | [C++](./graphs/cycle_detection_dsu_undirected.cpp) |
+
 
 ## Misc
 
