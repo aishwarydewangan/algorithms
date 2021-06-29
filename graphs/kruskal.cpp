@@ -31,7 +31,7 @@ void kruskal() {
     makeSet(nodes);
     cout << "\nEnter no. of edges: ";
     cin >> e;
-    pair<int, pair<int, int>> graph[n+1];
+    pair<int, pair<int, int>> graph[e+1];
     for(int i = 0; i < e; i++) {
         int a, b, w;
         cout << "\nEnter edge and weight(a, b, w): ";

@@ -9,7 +9,6 @@ vector<int> graph[20];
 bool visited[20];
 vector<int> odr;
 int nd, ed;
-map<int, int> inDegree;
 stack<int> stk;
 
 void dfs(int v) {
@@ -27,7 +26,6 @@ int main() {
     cin >> nd >> ed;
     
     for(int i = 1; i <= nd; i++) {
-        inDegree[i] = 0;
         visited[i] = false;
     }
     
@@ -35,7 +33,6 @@ int main() {
         int a, b;
         cin >> a >> b;
         graph[a].push_back(b);
-        inDegree[b]++;
     }
     
     for(int i = 1; i <= nd; i++) {
