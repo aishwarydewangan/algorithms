@@ -58,6 +58,8 @@
 | Title | Solution |
 | ----- | -------- |
 | N-Queens | [C++](./backtracking/n_queens.cpp) |
+| Combination Sum | [C++](./backtracking/combination_sum.cpp) |
+| Combination Sum II | [C++](./backtracking/combination_sum_ii.cpp) |
 
 ## Dynamic Programming
 
@@ -114,6 +116,7 @@
 | Detect Cycle in Undirected Graph (DFS) | [C++](./graphs/cycle_detection_dfs_undirected.cpp) |
 | Detect Cycle in Undirected Graph (DSU) | [C++](./graphs/cycle_detection_dsu_undirected.cpp) |
 | Detect Cycle in Directed Graph (DFS) | [C++](./graphs/cycle_detection_dfs_directed.cpp) |
+| Rotting Oranges | [C++](./graphs/rotting_oranges.cpp) |
 
 
 ## Misc
