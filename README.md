@@ -58,8 +58,11 @@
 | Title | Solution |
 | ----- | -------- |
 | N-Queens | [C++](./backtracking/n_queens.cpp) |
+| Generate Parenthesis | [C++](./backtracking/generate_parenthesis.cpp) |
 | Combination Sum | [C++](./backtracking/combination_sum.cpp) |
 | Combination Sum II | [C++](./backtracking/combination_sum_ii.cpp) |
+| Permutations | [C++](./backtracking/permutations.cpp) |
+| Permutations II | [C++](./backtracking/permutations_ii.cpp) |
 
 ## Dynamic Programming
 
