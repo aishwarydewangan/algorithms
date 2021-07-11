@@ -6,6 +6,7 @@
 | ----- | -------- |
 | Linear Search | [C++](./search/linear.cpp) |
 | Binary Search | [C++](./search/binary.cpp) |
+| Search in Rotated Sorted Array | [C++](./search/search_in_rotated_sorted_array.cpp)
 
 ## Sorting
 
